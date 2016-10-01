@@ -1,0 +1,2 @@
+# SocialHub
+git seminar BMAG
